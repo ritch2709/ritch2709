@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ritch2709
+- 👀 I’m interested in financial literacy & nonprofit
+- 🌱 I’m currently learning banking analytics
+- 💞️ I’m looking to collaborate on fraud risk management 
